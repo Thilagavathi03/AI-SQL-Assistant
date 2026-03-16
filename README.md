@@ -215,12 +215,12 @@ GOOGLE_API_KEY=your_api_key
 
 # 📸 Demo
 
-Example UI:
+![AI SQL Assistant Screenshot](https://raw.githubusercontent.com/Thilagavathi03/AI-SQL-Assistant/refs/heads/main/images/Screenshot%202026-03-16%20121756.png)
 
 ```
-Question: How many Adidas t-shirts are in stock?
+Question: How many t-shirts do we have left for Nike in XS size and white color
 
-Answer: 120
+Answer: 38
 ```
 
 ---
