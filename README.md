@@ -160,7 +160,7 @@ Get the API key from:
 Create database:
 
 ```sql
-CREATE DATABASE atliq_tshirts;
+CREATE DATABASE shop_tshirts;
 ```
 
 Add tables and sample data.
